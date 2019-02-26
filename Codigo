@@ -11,7 +11,7 @@ double	real;
 double	imag;
 };
 
-enum state {INICIAL=5,PREPARACION,TRABAJANDO,FINALIZACION};
+enum state {INICIAL=2,PREPARACION,TRABAJANDO,FINALIZACION};
 extern unsigned long int N1;
 const float N2 = 3.1416;
 const double N3 = 123456789.987654321123456789567444433321;
